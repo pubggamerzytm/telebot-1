@@ -1,0 +1,24 @@
+{
+    "token": "697655014:AAGDCehxT1w-i8_mdSzA69IksRbTlbWx1fM",
+    "min": 20,
+    "max": 60,
+    "rank": {
+        "free": {
+            "delay": 30000
+        },
+        "vip1": {
+            "delay": 15000,
+            "price": 0.02000000
+        },
+        "vip2": {
+            "delay": 5000,
+            "price": 0.03000000
+        },
+        "vip3 (LIFETIME)": {
+            "delay": 5000,
+            "price": 1.00000000
+        }
+    },
+    "addr": "32GaGpjWET6SDvypzC7UPefmuvdtmEwqYW",
+    "withdrawalMinimum": "0.0005"
+}

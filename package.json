@@ -1,0 +1,21 @@
+{
+  "name": "faucet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "mongodb": "^3.1.0",
+    "mongoose": "^5.1.8",
+    "node-telegram-bot-api": "^0.30.0",
+    "now": "^11.4.1",
+    "wallet-address-validator": "^0.1.7"
+  }
+}
